@@ -1,4 +1,4 @@
-;An assembly language program to add2 numbers stored in variables named m & n and store the result of addition in'sum'.
+;An assembly language program to add 2 numbers stored in variables named m & n and store the result of addition in'sum'.
 
 
 Data segment
